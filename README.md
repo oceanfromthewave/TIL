@@ -4,10 +4,9 @@
 
 ### 프로그램 언어
 
-* [Java](git@github.com:oceanfromthewave/Java.git)
-
+* [Java](https://github.com/oceanfromthewave/Java.git)
 ### 화면구현
-* [HTML5](git@github.com:oceanfromthewave/html5.git)
+* [HTML5](https://github.com/oceanfromthewave/html5.git)
 ### UI & UX
 
 * [UML](./UI_UX/UML.md)
